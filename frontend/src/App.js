@@ -133,10 +133,7 @@ function App() {
                       </LinkContainer>
                       <LinkContainer to="/admin/users">
                         <NavDropdown.Item>Users</NavDropdown.Item>
-                      </LinkContainer>
-                      <LinkContainer to="/admin/support">
-                        <NavDropdown.Item>Support</NavDropdown.Item>
-                      </LinkContainer>
+                 
                     </NavDropdown>
                   )}
                 </Nav>
